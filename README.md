@@ -8,7 +8,7 @@ How to install:
 1. Download this extension
 3. Open chrome://extensions/
 4. Click "Load unpacked extension..."
-5. Select the directory where the files are placed
+5. Select the directory where the files are placed then "ok"/"choose"
 
 ##FIX 1.1 [2020-05-21]
  * Reworked as an extension.
