@@ -6,15 +6,15 @@
 How to install:
 
 1. Download the code as a zip file then extract it
-3. Open chrome://extensions/
-4. Click "Load unpacked extension..."
+3. Open `chrome://extensions/`
+4. Click `Load unpacked extension`
 5. Select the directory where the files are placed then "ok"/"choose"
 
-IF THERE ARE ANY ERRORS IN THE INSTALLATION PROCESS CHECK YOUR FILE SELECTED (HAVE FILES WITH NAME "manifest.json")
+IF THERE ARE ANY ERRORS IN THE INSTALLATION PROCESS CHECK YOUR FILE SELECTED (HAVE FILES WITH NAME `manifest.json`)
 
-##FIX 1.1 [2020-05-21]
+##FIX 1.2 [2021-05-10]
  * Reworked as an extension.
- * Changed the background on the main screen.
+ * Fix the background on the main screen not work.
 
 ## Current Sounds
   1. AK 47
