@@ -2,8 +2,8 @@
     "manifest_version": 2,
     "name": "Surviv.io Custom Sounds",
     "author":"humphreygaming, brzsmg and VN BPM",
-    "version": "1.0.2",
-    "description": "New sounds for surviv.io. Working with main web of surviv.io(https://surviv.io/)",
+    "version": "1.0.3",
+    "description": "New sounds for surviv.io. Working with main web of surviv.io (https://surviv.io/)",
     "icons": {
         "128": "ext_128.png"
     },
