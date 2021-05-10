@@ -106,7 +106,7 @@ const replaces = new  Map([
     
     ["https://surviv.io/audio/ambient/menu_music_01.mp3", "/audio/ambient/menu_music_01.mp3"],
     ["https://surviv.io/audio/ambient/club_music_01.mp3", "/audio/ambient/club_music_01.mp3"],
-    ["http://surviv.io/audio/ambient/piano_music_01.mp3", "/audio/ambient/piano_music_01.mp3"],
+    ["https://surviv.io/audio/ambient/piano_music_01.mp3", "/audio/ambient/piano_music_01.mp3"],
     
     ["https://surviv.io/audio/ui/last_man_assigned_01.mp3", "/audio/ui/last_man_assigned_01.mp3"],
 
