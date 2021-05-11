@@ -122,8 +122,8 @@ const replaces = new  Map([
 const ext = {};
 
 ext.onHeadersReceived = ({responseHeaders}) => {
-  const o = responseHeaders.find(({name}) => name.toLowerCase() === 'access-control-allow-origin');.
-  if (o) {"....
+  const o = responseHeaders.find(({name}) => name.toLowerCase() === 'access-control-allow-origin');
+  if (o) {
     o.value = '*';
   }
   else {
@@ -164,4 +164,3 @@ ext.remove = () => {
 };
 
 ext.install();
-
