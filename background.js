@@ -105,6 +105,7 @@ const replaces = new  Map([
     ["https://surviv.io/audio/guns/glock_switch_01.mp3", "/audio/guns/glock_switch_01.mp3"],
     ["https://surviv.io/audio/guns/m9_01.mp3", "/audio/guns/m9_01.mp3"],
     ["https://surviv.io/audio/guns/m9_switch_01.mp3", "/audio/guns/m9_switch_01.mp3"],
+    ["https://surviv.io/audio/guns/m9_reload_01.mp3", "/audio/guns/m9reload.mp3"],
     
     ["https://surviv.io/audio/ambient/menu_music_01.mp3", "/audio/ambient/menu_music_01.mp3"],
     ["https://surviv.io/audio/ambient/club_music_01.mp3", "/audio/ambient/club_music_01.mp3"],
@@ -115,7 +116,8 @@ const replaces = new  Map([
     ["https://surviv.io/audio/hits/player_bullet_hit_01.mp3", "/audio/hits/player_bullet_hit_01.mp3"],
     ["https://surviv.io/audio/hits/player_bullet_hit_02.mp3", "/audio/hits/player_bullet_hit_02.mp3"],
     
-    ["https://surviv.io/img/main_splash.jpg", "/img/main_splash.png"]
+    ["h    ["https://surviv.io/audio/guns/m9_reload_01.mp3", "/audio/guns/m9reload.mp3"],
+ttps://surviv.io/img/main_splash.jpg", "/img/main_splash.png"]
 ]);
 
 const ext = {};
