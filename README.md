@@ -12,8 +12,12 @@ How to install:
 
 IF THERE ARE ANY ERRORS IN THE INSTALLATION PROCESS CHECK YOUR FILE SELECTED (HAVE FILES WITH NAME `manifest.json`)
 
+##WILL COMING SOON
+
+ * Sound for barreta m9.
+
 ##FIX 1.2 [2021-05-10]
- * Reworked as an extension.
+ * New sound in casino and saloon (desert map).
  * Fix the background on the main screen not work.
 
 ## Current Sounds
