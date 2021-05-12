@@ -14,7 +14,7 @@ IF THERE ARE ANY ERRORS IN THE INSTALLATION PROCESS CHECK YOUR FILE SELECTED (HA
 
 ##NEW
 
- * Sound for barreta m9.
+ * Sound for berreta m9.
 
 ##FIX 1.2 [2021-05-10]
  * New sound in casino and saloon (desert map).
