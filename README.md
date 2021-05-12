@@ -5,7 +5,7 @@
 ## Installation
 How to install:
 
-1. Download the code as a zip file then extract it
+1. Download the code as a zip file then extract it (file `survivcustomsounds-master.zip`
 3. Open `chrome://extensions/`
 4. Click `Load unpacked extension`
 5. Select the directory where the files are placed then `ok`/`choose`
