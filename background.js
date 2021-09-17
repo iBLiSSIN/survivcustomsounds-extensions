@@ -112,8 +112,6 @@ const replaces = new  Map([
 
     ["https://surviv.io/audio/hits/player_bullet_hit_01.mp3", "/audio/hits/player_bullet_hit_01.mp3"],
     ["https://surviv.io/audio/hits/player_bullet_hit_02.mp3", "/audio/hits/player_bullet_hit_02.mp3"],
-    
-    ["https://surviv.io/img/main_splash.jpg", "/img/main_splash.jpg"]
 ]);
 
 const ext = {};
